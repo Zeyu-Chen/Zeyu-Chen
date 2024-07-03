@@ -57,4 +57,4 @@ Hello! I'm Zeyu, an innovative engineer with over 3 years of experience in both 
 
 <!-- ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=zeyu-chen&show_icons=true&theme=tokyonight) -->
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=zeyu-chen&layout=compact&theme=tokyonight)
+<!-- ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=zeyu-chen&layout=compact&theme=tokyonight) -->
