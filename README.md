@@ -1,6 +1,6 @@
 <h1 align="center">Zeyu Chen</h1>
 
-Hello! I'm Zeyu, an innovative engineer with over 3 years of experience in both academia and industry. I specialize in front-end development, full-stack development, and machine learning. I am proficient in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, and other modern web technologies.
+Hello! I'm Zeyu, an innovative engineer with of experience in both academia and industry. I specialize in front-end development, full-stack development, and machine learning. I am proficient in JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, and other modern web technologies.
 
 
 ### Language
